@@ -1,0 +1,428 @@
+
+.non:hover{
+    cursor: pointer;
+    transform:skewX(5deg);
+    transition: all 1s linear;
+}
+
+/* start navbar */
+.navbar{
+    background-color:#cf5c61;
+    color: white;
+    
+}
+
+.link{
+    color: #fdd1c8;
+    font-size: 17px;
+ 
+}
+
+
+.icons{
+    font-size:18px;
+}
+
+.face:hover{
+    color:#00b1fb;
+    cursor: pointer;
+    transition: all 1s linear;
+   
+}
+
+.twit:hover{
+    color:#00b1fb;
+    cursor: pointer;
+    transition: all 1s linear;
+   
+}
+
+.whats:hover{
+    color:greenyellow;
+    cursor: pointer;
+    transition: all 1s linear;
+  
+}
+
+.you:hover{
+    color:red;
+    cursor: pointer;
+    transition: all 1s linear;
+   
+}
+
+
+.insta:hover{
+    color:deeppink;
+    cursor: pointer;
+    transition: all 1s linear;
+   
+}
+
+.linkd:hover{
+    color:blue;
+    cursor: pointer;
+    transition: all 1s linear;
+   
+}
+
+.lang select{
+    background-color:#cf5c61;
+    border: none;
+    color: #ffebed;
+}
+
+
+.down{
+    background-color: #d25b5f;
+    color: #ffebed;
+    border-radius: 5px;
+}
+
+
+.noor h4{
+    color:#98a19e;
+}
+
+.account{
+    background-color: #cf5c61;
+    border-radius: 9px;
+}
+
+.log{
+    background-color: #ffeee6;
+    color:#d25b5f ;
+    border: none;
+    font-weight: 600;
+}
+
+
+.one{
+    position: relative;
+}
+
+.yaa{
+    position: absolute;
+    padding-top: 5px;
+    padding-left:25px;
+    font-size: 20px;
+    color: #bac3c0;
+}
+
+.example{
+    padding-left: 30px;
+    margin-left: 20px;
+}
+
+
+.brad{
+    width: 87%;
+}
+
+.form h2{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.form h5{
+    color:  #838383;
+    font-size: 18px;
+}
+
+
+
+.search{
+    position: relative;
+    padding-right: 10px;
+}
+
+.reach{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 12px;
+    color: #6a736e;
+}
+/* end navbar */
+
+/* header */
+.text{
+    border-radius: 10px;
+    background-color: #e5f6ec;
+    height: 100%;
+    width: 280px;
+    border: none;
+}
+
+
+.search input{
+    padding-left: 40px;
+    font-weight: 500;
+}
+
+
+.two{
+    position: relative;
+}
+
+.amirca{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+.two input{
+    padding-left: 80px;
+    color: #aaa;
+    width: 470px;
+    height: 90%;
+
+}
+.two select{
+    position: absolute;
+    margin-left: 30px;
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    margin-top: 5px;
+    color: #aaa;
+
+}
+
+
+.three{
+    position: relative;
+}
+.three input{
+    padding-left: 28px;
+}
+
+
+.amircan{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 5px;
+    
+}
+
+
+.three select{
+    position: absolute;
+    margin-left: 190px;
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    margin-top: 5px;
+    color: #aaa;
+
+}
+
+
+.six{
+    position: relative;
+}
+
+.facebok{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 6px;
+    color: blue;
+    font-size: 19px;
+   
+}
+.six input{
+    width: 470px;
+    padding-left: 30px;
+    
+}
+
+
+.seven{
+    position: relative;
+}
+
+.instagram{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 6px;
+    color:brown;
+    font-size: 19px;
+}
+
+.seven input{
+
+    width: 470px;
+    padding-left: 30px;
+    
+}
+
+.eight input{
+    width: 470px;
+    padding-left: 30px;
+}
+
+.zrar{
+    background-color: #cf5c61;
+    width: 88%;
+    font-size: 15px;
+}
+ 
+/* end header */
+
+/* footer */
+.prag{
+
+    color: #6f6f6f;
+    font-size: 18px;
+}
+.prag strong{
+    color:#c26669 ;
+    font-size: 17px;
+}
+
+.app{
+    background-color: #ffede8;
+    font-size: 30px;
+    margin-left: 10px;
+    color: #af7373;
+    
+}
+.app:hover{
+     color: red;
+    cursor: pointer;
+    transform: skew(15deg);
+}
+
+
+.phon{
+    margin-left: 80px;
+    color: #c26669;
+    font-weight: 700;
+}
+
+
+
+.abb{
+
+    background-color: #ffede8;
+    font-size: 30px;
+    margin-left: 95px;
+    color: #af7373;
+}
+
+.abb:hover{
+    color: red;
+    cursor: pointer;
+    transform: rotateY(50deg)
+}
+
+
+.com{
+    margin-left: 330px;
+    color: #c26669;
+    font-weight: 700;
+}
+
+
+.noor ul{
+    list-style: none;
+    line-height: 32px;
+    font-size: 17px;
+    color: #999;
+}
+
+.noor h2{
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.end{
+   margin-left: 550px;
+   color: #999;
+   font-size: 15px;
+}
+
+.container{
+    display: flex;
+
+}
+
+
+.continer{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.continer span{
+    display: block;
+}
+
+.continer span.number1{
+    width: 30px;
+    height: 33px;
+    background-color:#c26669 ;
+    color: white;
+    border-radius: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.continer span.number{
+    width: 30px;
+    height: 33px;
+    background-color: #cce3d9;
+    color: black;
+    border-radius: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.continer span.number{
+    width: 30px;
+    height: 33px;
+    background-color: #cce3d9;
+    color: black;
+    border-radius: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.continer span.text{
+    color: #626262;
+    height: 3px;
+    width: 80px;
+}
+
+.continer span.text1{
+    font-size: 18px;
+    color: #626262;
+}
+
+
+
+.continer span.hr{
+    width: 1px;
+    height: 2px;
+    background-color: white;
+   
+    
+}
+
+
+.continer h4{
+    font-size: 16px;
+    margin-right: 20px;
+    margin-top: 10px;
+    color: #bcc2c0;
+}
+
+
+/* end footer */
